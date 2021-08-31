@@ -11,12 +11,14 @@
 
 🎓 Studying Pharmacy but love to code
 
-❤️ Javascript and Typescript Lover
-
 ⚛️ React and React Native/Web Enthusiast
 
-🍎 Apple Fanboy
+❤️ Javascript and Typescript Lover
 
+♟ Enjoy playing Xiang Qi
+
+🍎 Apple Fanboy
+  
 #### Feel free to give Your Suggestions, Issues or PRs🌍
 
 <img  src="https://github-readme-stats.vercel.app/api?username=fortezhuo&show_icons=true&icon_color=6392DF">
