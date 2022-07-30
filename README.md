@@ -17,6 +17,8 @@
 
 ♟ Enjoy playing Xiang Qi
 
+🧘 TWIM Meditator 
+
 🍎 Apple Fanboy
   
 #### Feel free to give Your Suggestions, Issues or PRs🌍
