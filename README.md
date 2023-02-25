@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I am Forte Zhuo
+# Hi, I am Hedi Kasmanto
 
 [![Twitter: fortezhuo](https://img.shields.io/twitter/follow/fortezhuo?style=social)](https://twitter.com/fortezhuo)
 [![Linkedin: hedikasmanto](https://img.shields.io/badge/-hedikasmanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hedikasmanto/)](https://www.linkedin.com/in/hedikasmanto/)
