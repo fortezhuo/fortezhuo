@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/9128724/228475447-6d6afb3a-8259-41a8-b2a7-9a4121ec1e82.png)
+![image](https://user-images.githubusercontent.com/9128724/228556344-6876749d-7759-484d-bb89-839cd1cde854.png)
+
   
 [- My Resume -](https://fortezhuo.my.id)
   
