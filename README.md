@@ -21,12 +21,8 @@
 ♟ Enjoy playing Xiang Qi
 
 🧘 TWIM Meditator 
-
-🍎 Apple Fanboy
     
 #### Feel free to give Your Suggestions, Issues or PRs🌍
-
-<img  src="https://github-readme-stats.vercel.app/api?username=fortezhuo&show_icons=true&icon_color=6392DF">
 
 </div>
 
