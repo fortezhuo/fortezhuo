@@ -24,5 +24,9 @@
     
 #### Feel free to give Your Suggestions, Issues or PRs🌍
 
+![ForteZhuo Github Stats](https://github-readme-stats.vercel.app/api?username=fortezhuo&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![ForteZhuo Top Languange](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fortezhuo&layout=compact&langs_count=8&hide_border=true)
+
+
 </div>
 
