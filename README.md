@@ -8,6 +8,7 @@
   
 [![Twitter: fortezhuo](https://img.shields.io/twitter/follow/fortezhuo?style=social)](https://twitter.com/fortezhuo)
 [![Linkedin: hedikasmanto](https://img.shields.io/badge/-hedikasmanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hedikasmanto/)](https://www.linkedin.com/in/hedikasmanto/)
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-29abe0?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/fortezhuo)
 
 ## :book: About Me
 🖥 Full Stack Developer
