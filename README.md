@@ -29,12 +29,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://fortecraft.github.io/aiseo">
+      <a href="https://fortezhuo-labs.github.io/aiseo">
         <img src="https://github.com/user-attachments/assets/acdf9d7a-cf57-43de-b7ff-47183280a648" width="400"/>
       </a>
     </td>
     <td>
-      <a href="https://fortecraft.github.io/picto/">
+      <a href="https://fortezhuo-labs.github.io/picto/">
         <img src="https://github.com/user-attachments/assets/79dabf17-1403-42e7-a3f2-0f4eac031af7" width="400"/>
       </a>
     </td>
